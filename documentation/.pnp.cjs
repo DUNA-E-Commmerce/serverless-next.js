@@ -6045,7 +6045,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["acorn-jsx", "virtual:df07a22795a53a0fa9cf22206825c89f0a537a17244f9b6e87ec63f6a4a8cf2f318ab8f2ff3114e5e9c65e98aad4422f42dc86a5ea5934d01f3c6abc691384ac#npm:5.3.2"],
             ["chalk", "npm:2.4.2"],
             ["magic-string", "npm:0.25.7"],
-            ["minimist", "npm:1.2.5"],
+            ["minimist", "npm:1.2.8"],
             ["regexpu-core", "npm:4.8.0"]
           ],
           "linkType": "HARD",
@@ -9953,7 +9953,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../.yarn/cache/json5-npm-1.0.1-647fc8794b-e76ea23dbb.zip/node_modules/json5/",
           "packageDependencies": [
             ["json5", "npm:1.0.1"],
-            ["minimist", "npm:1.2.5"]
+            ["minimist", "npm:1.2.8"]
           ],
           "linkType": "HARD",
         }],
@@ -9961,7 +9961,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../.yarn/cache/json5-npm-2.1.3-b71ec6bcca-b2de57a665.zip/node_modules/json5/",
           "packageDependencies": [
             ["json5", "npm:2.1.3"],
-            ["minimist", "npm:1.2.5"]
+            ["minimist", "npm:1.2.8"]
           ],
           "linkType": "HARD",
         }]
@@ -10704,10 +10704,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["minimist", [
-        ["npm:1.2.5", {
-          "packageLocation": "../.yarn/cache/minimist-npm-1.2.5-ced0e1f617-86706ce5b3.zip/node_modules/minimist/",
+        ["npm:1.2.8", {
+          "packageLocation": "../.yarn/cache/minimist-npm-1.2.8-d7af7b1dce-75a6d645fb.zip/node_modules/minimist/",
           "packageDependencies": [
-            ["minimist", "npm:1.2.5"]
+            ["minimist", "npm:1.2.8"]
           ],
           "linkType": "HARD",
         }]
@@ -10799,7 +10799,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../.yarn/cache/mkdirp-npm-0.5.5-6bc76534fc-3bce20ea52.zip/node_modules/mkdirp/",
           "packageDependencies": [
             ["mkdirp", "npm:0.5.5"],
-            ["minimist", "npm:1.2.5"]
+            ["minimist", "npm:1.2.8"]
           ],
           "linkType": "HARD",
         }],
@@ -12747,7 +12747,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["rc", "npm:1.2.8"],
             ["deep-extend", "npm:0.6.0"],
             ["ini", "npm:1.3.5"],
-            ["minimist", "npm:1.2.5"],
+            ["minimist", "npm:1.2.8"],
             ["strip-json-comments", "npm:2.0.1"]
           ],
           "linkType": "HARD",
@@ -15325,7 +15325,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["axios", "npm:0.21.4"],
             ["joi", "npm:17.4.2"],
             ["lodash", "npm:4.17.21"],
-            ["minimist", "npm:1.2.5"],
+            ["minimist", "npm:1.2.8"],
             ["rxjs", "npm:7.5.2"]
           ],
           "linkType": "HARD",
